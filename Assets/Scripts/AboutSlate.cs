@@ -1,6 +1,5 @@
 // Copyright Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License. See LICENSE in the project root for license information.
-//Added for fluidImages testing
 using System;
 using System.Collections;
 using UnityEngine;
